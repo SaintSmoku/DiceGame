@@ -48,7 +48,7 @@ function initGame(){
     winner = false;
     roundScore = 0;
     scores = [0, 0];
-    winScore = 10;
+    winScore = 100;
 
     document.querySelector(".dice").style.display = "none";
 
